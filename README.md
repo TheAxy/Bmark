@@ -1,4 +1,4 @@
-https://theaxy.github.io/bmark/
+https://theaxy.github.io/Bmark/
 
 # Bmark
 Адаптивная верстка сайта с применением кроссбраузерности
