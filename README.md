@@ -6,4 +6,4 @@ https://theaxy.github.io/Bmark/
 Одностраничный сайт, активный хедер с анимацией, меню бургер, слайдер
 
 # Стек
-`html5` `css3` `js` `scss`
+`html5` `БЭМ` `css3` `js` `scss` 
